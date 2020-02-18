@@ -22,3 +22,8 @@ build/
 _yardoc
 doc/
 .idea/
+
+# Ignore application configuration
+/config/application.yml
+local_env.yml
+.env
